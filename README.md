@@ -1,2 +1,2 @@
 # african-restaurant
-Development of an african restaurant website.
+Development of Ounje Cafe's (an african restaurant) website.
