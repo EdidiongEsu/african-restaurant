@@ -96,6 +96,7 @@ header .btn {
   opacity: 1;
   transform: scale(1);
 }
+<<<<<<< HEAD
 .dropdown-menu {
   text-align: center;
   transform: (-50%);
@@ -126,6 +127,8 @@ header .btn {
   font-weight: bold;
 }
 
+=======
+>>>>>>> 16f360582d55d683589a33b0b11509273e253b59
 .hero-text {
   position: absolute;
   top: 45%;
@@ -166,9 +169,12 @@ header .btn {
 .btn:hover::before {
   left: 100%;
 }
+<<<<<<< HEAD
 #add-to-tray .btn:active {
   background-color: blue !important;
 }
+=======
+>>>>>>> 16f360582d55d683589a33b0b11509273e253b59
 
 /*About*/
 .section-heading h4 {
@@ -265,9 +271,12 @@ hr {
   background-color: #c69963;
   overflow: hidden;
 }
+<<<<<<< HEAD
 #add-to-tray {
   background-color: #c69963;
 }
+=======
+>>>>>>> 16f360582d55d683589a33b0b11509273e253b59
 
 /*Chef's side*/
 
